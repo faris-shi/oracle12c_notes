@@ -1,4 +1,4 @@
-# Views
+# Chapter 6: Views
 
 Views are database objects that store select statements and allow using select query results as tables. It has two purposes:
 

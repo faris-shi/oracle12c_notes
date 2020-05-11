@@ -1,4 +1,4 @@
-# SELECT STATEMENT
+# Chapter 2: Query
 
 Select statements could enable users to retrieve data from tables. users can view all fields and records in a table or specify displaying only certain fields and records. in essence, the `SELECT` statement asks the database a question, which is why it is also known as `QUERY`.
 

@@ -1,4 +1,4 @@
-# Sequence
+# Chapter 7: Sequence
 
 `Sequence` is a `Database Object`, you can use it to generates sequential integers that organizations can use to assist with internal control or simply to serve as primary keys for tables.
 

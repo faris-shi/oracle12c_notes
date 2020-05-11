@@ -1,4 +1,4 @@
-# Data Definition Language \(DDL\)
+# Chapter 3: Data Definition Language \(DDL\)
 
 `DDL` is basically SQL Command used specifically to create or modify `Data Objects`.
 

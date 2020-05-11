@@ -1,4 +1,4 @@
-# terminology
+# Appendix: Terminology
 
 `String Literal`: A string literal is a set of characters enclosed in single quotation marks \(''\); it’s interpreted as is, not treated as a keyword or command.
 

@@ -1,4 +1,4 @@
-# Function
+# Chapter 5: Function
 
 Function is the predefined block of code that accepts one or more arguments listed inside the parentheses, and then returns value as output.
 

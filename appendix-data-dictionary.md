@@ -1,4 +1,4 @@
-# DATA DICTIONARY
+# Appendix: Data Dictionary
 
 a collection of objects the DBMS manages to maintain information about the database.
 

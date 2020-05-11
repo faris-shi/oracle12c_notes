@@ -1,4 +1,4 @@
-# Table Lock
+# Appendix: Table Lock
 
 Table locks can be used to prevent users from mistakenly overwriting changes made by other users.
 
