@@ -1,6 +1,6 @@
 # README
 
-![Screen Shot 2020-05-10 at 9.57.21 PM](.gitbook/assets/snapshot.png)
+![](.gitbook/assets/snapshot.png)
 
 This book is excellent and worthy reading because it has a main thread about how to maintain a bookstore and clear explanations. I highly recommend this book if you want to add Oracle 12c into your skill library.
 
